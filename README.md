@@ -14,7 +14,12 @@ The project enables the creation of products and users. When the user logs into 
 ### ** Grant Advance **:
 
 - GrantAdvance.API
+
+	
 - GrantAdvance.Data
+	In this project, there is the migration
 - GrantAdvance.Domain
+	In this project, there are models and viewmodels
 - GrantAdvance.Infras
+	In this project, there are services and repositories
 
