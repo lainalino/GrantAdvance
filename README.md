@@ -9,12 +9,19 @@ The project enables the creation of products and users. When the user logs into 
 - The implementation is developed in C#
 - Use of the .Net 7 framework
 - Visual Studio 2022
-- Packages: Microsoft.Extensions.DependencyInjection
+- Packages:
+Microsoft.Extensions.DependencyInjection
+microsoft.aspnetcore.authentication.jwtbearer
+microsoft.entityframeworkcore.design
+swashbuckle.aspnetcore
+microsoft.aspnetcore.openapi
+microsoft.entityframeworkcore.inmemory
+microsoft.entityframeworkcore
+microsoft.extensions.options
 
 ### ** Grant Advance **:
 
 - GrantAdvance.API
-
 	
 - GrantAdvance.Data
 	In this project, there is the migration
