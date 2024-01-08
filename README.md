@@ -11,13 +11,13 @@ The project enables the creation of products and users. When the user logs into 
 - Visual Studio 2022
 - Packages:
 Microsoft.Extensions.DependencyInjection
-microsoft.aspnetcore.authentication.jwtbearer
-microsoft.entityframeworkcore.design
-swashbuckle.aspnetcore
-microsoft.aspnetcore.openapi
-microsoft.entityframeworkcore.inmemory
-microsoft.entityframeworkcore
-microsoft.extensions.options
+- microsoft.aspnetcore.authentication.jwtbearer
+- microsoft.entityframeworkcore.design
+- swashbuckle.aspnetcore
+- microsoft.aspnetcore.openapi
+- microsoft.entityframeworkcore.inmemory
+- microsoft.entityframeworkcore
+- microsoft.extensions.options
 
 ### ** Grant Advance **:
 
